@@ -1,0 +1,7 @@
+**/__pycache__
+Open_Pouch_Codes/LPK_CAM_4_Open_Pouch_2/capture_data.py
+**/crqs.py
+models/*
+**/*.onnx
+**/*.engine
+**/*.pt
